@@ -20,3 +20,28 @@
 
 
 ![Curry](https://user-images.githubusercontent.com/83441924/116655654-0bb19580-a9be-11eb-8617-e8c60f1f2495.jpg)
+
+ ```C
+int main(){
+	int a[5][5];
+	int i,j;
+	int temp;
+	for(i=0;i<4;i++){
+		for(j=0;j<4;j++){
+			scanf("%d",&a[i][j]);
+		}
+	}
+	for(i=0;i<4;i++){
+		temp=a[0][i];
+		a[0][i]=a[2][i];
+		a[2][i]=temp;
+	}
+	for(i=0;i<4;i++){
+		for(j=0;j<4;j++){
+			printf("%5d",a[i][j]);
+		}
+		printf("\n");
+	}
+}
+
+ ```
