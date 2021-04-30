@@ -9,7 +9,6 @@
  * 2016-17 season NBA championship
  * 2017-18 season NBA championship
 
-* [More picture and introduce about Curry](/homework.md)(*to another md*)
 
 1.
    the picture of Curry
