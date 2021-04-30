@@ -21,7 +21,7 @@
 
 ![Curry](https://user-images.githubusercontent.com/83441924/116655654-0bb19580-a9be-11eb-8617-e8c60f1f2495.jpg)
 
-* [More picture and introduce about Curry](/homework.md)(*to another md*)
+* [Character evaluation about Curry](/homework.md)(*to another md*)
 
 
  ```C
