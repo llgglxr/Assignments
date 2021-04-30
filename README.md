@@ -4,3 +4,7 @@
 >*Curry*  is a American professional basketball player, as a point guard, played for the NBA Golden State Warriors.
 
 #### Award record
+
+    * 2014-15 season NBA championship
+    * 2016-17 season NBA championship
+    * 2017-18 season NBA championship
