@@ -15,6 +15,3 @@
 ![](/Curry.jpg 'Curry')
 
 
-2.
-
-![Curry](https://user-images.githubusercontent.com/83441924/116651838-a6a67180-a9b6-11eb-8d4c-3eaf34d8d664.jpg)
