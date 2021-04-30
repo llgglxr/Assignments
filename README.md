@@ -48,7 +48,22 @@ int main(){
 }
 
  ```
- ####Friend
+ #### Friend
 1. Durant
 2. Klay Thompson 
 3. Green
+
+|  age   | gender  
+|  ----  | ----  |
+|  33  | man
+
+
+**Curry**
+
+*Curry*
+
+~~Curry~~
+
+------------------
+
+------------------
